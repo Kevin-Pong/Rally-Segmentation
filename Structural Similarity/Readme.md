@@ -21,7 +21,7 @@ python rs_ssim.py CHEN_Long_CHOU_Tien_Chen_Denmark_Open_2019_QuarterFinal.mp4 ou
 ```
 After you run the program, it wiil first start to play the video. Please press 'q' at any time when the frame is the perspective when in a rally. <br>
 For example : <br>
-![image]{https://github.com/Kevin-Pong/Rally-Segmentation/blob/main/Structural%20Similarity/label.jpg}
+![image](https://github.com/Kevin-Pong/Rally-Segmentation/blob/be9e7c8852277c3de99e62bd1705ffd21fe09f7d/Structural%20Similarity/label.jpg)
 
 ## Constraints
 This implementation method only works for broadcasting video.
