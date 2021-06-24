@@ -1,0 +1,2 @@
+# Rally Segmantation
+Rally Segmentation is kind of tired and time-costing job for human beings. In this project, I focus on badminton game, and I try to let the job be done automatically. I have tried two ways for implentation. Detailed introduction ar in the folloeing two directories.
