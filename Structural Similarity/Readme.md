@@ -20,8 +20,8 @@ For example :
 python rs_ssim.py CHEN_Long_CHOU_Tien_Chen_Denmark_Open_2019_QuarterFinal.mp4 output.csv
 ```
 After you run the program, it wiil first start to play the video. Please press 'q' at any time when the frame is the perspective when in a rally. <br>
-For example : 
-![image]{https://github.com/Kevin-Pong/Rally-Segmentation/blob/bd3ad565da68de59ccc98a9fa04468dde6a7f22a/Structural%20Similarity/label.jpg}
+For example : <br>
+![image]{https://github.com/Kevin-Pong/Rally-Segmentation/blob/main/Structural%20Similarity/label.jpg}
 
 ## Constraints
 This implementation method only works for broadcasting video.
