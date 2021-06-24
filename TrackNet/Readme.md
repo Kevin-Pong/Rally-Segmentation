@@ -1,7 +1,9 @@
 # Rally Segmentation based on Predict Result of TrackNet
 
 ## Introduction
-The implematation method is based on the predict result of TrackNet. If number of frame that ball is visible in prediction > threshold in next fixed amount of frames, I regard it as the start of the rally. Similarily, if number of frame that ball is invisible in prediction > threshold in next fixed amount of frames, I regard it as the end of the rally.
+The implematation method is based on the predict result of TrackNet.<br> 
+-If number of frame that ball is visible in prediction > threshold in next fixed amount of frames, I regard it as the start of the rally. <br>
+-Similarily, if number of frame that ball is invisible in prediction > threshold in next fixed amount of frames, I regard it as the end of the rally.
  
 ## Install
 Here are some packages the program needs. Please do the following command before you run the program.
