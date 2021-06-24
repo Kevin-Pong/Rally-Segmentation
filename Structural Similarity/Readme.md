@@ -1,4 +1,4 @@
-# Rally Segmentation based on structural similarity
+# Rally Segmentation based on Structural Similarity
 
 ## Introduction
 The implematation method is based on what I observed in broadcasting video. When a rally is playing, the perspective seems to be the same in most time. And between rally and rally, the perspective may change. For example, closing up to the players, coaches, audiences, etc. Based on this idea, I use structural similarity to decide whether a frame is in a rally or not, and regard consecutive frames as the same rally.    
