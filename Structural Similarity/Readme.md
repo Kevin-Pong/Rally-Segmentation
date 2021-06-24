@@ -12,7 +12,9 @@ pip install scikit-image
 ```
 
 ## How to Run the Program
+```sh
 python rs_ssim.py <input-video-path> <output-csv-filename>
+```
 For example :
 ```sh
 python rs_ssim.py CHEN_Long_CHOU_Tien_Chen_Denmark_Open_2019_QuarterFinal.mp4 output.csv
